@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Tile 1</string>
+    <string name="description">Description 1</string>
+    <string name="kino">Kino</string>
+</resources>
